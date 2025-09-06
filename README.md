@@ -50,6 +50,7 @@ Date and amount
 Clone the repository:
 
 git clone https://github.com/San-nimona/Automated-invoice-generator.git
+
 cd Automated-invoice-generator
 
 
